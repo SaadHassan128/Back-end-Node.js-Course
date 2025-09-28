@@ -1,10 +1,3 @@
-// =====================================
-// JavaScript Session 1 - Complete Code
-// Academy of Digital Arts Egypt
-// Back-End Development Course
-// Instructor: Saad Hassan Saad
-// =====================================
-
 console.log("=== Academy of Digital Arts Egypt - JavaScript Fundamentals ===");
 console.log("Instructor: Saad Hassan Saad");
 console.log("Position: Full Stack Web Development Instructor & Head of Software Department");
@@ -357,4 +350,5 @@ console.log("Department: " + INSTRUCTOR_DEPARTMENT);
 console.log("Institution: " + ACADEMY_NAME);
 console.log("");
 console.log("Remember: Practice makes perfect in programming!");
+
 console.log("Next session: Functions, Conditionals, and Loops");
