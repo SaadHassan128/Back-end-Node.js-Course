@@ -1,10 +1,3 @@
-// ======================================================================
-// JavaScript Session 2 - Conditionals, Operators & Loops - Complete Code
-// Academy of Digital Arts Egypt - Back-End Development Course
-// Instructor: Saad Hassan Saad
-// Position: Full Stack Web Development Instructor & Head of Software Department
-// ======================================================================
-
 console.log("=== Academy of Digital Arts Egypt - JavaScript Session 2 ===");
 console.log("Instructor: Saad Hassan Saad");
 console.log("Position: Full Stack Web Development Instructor & Head of Software Department");
@@ -555,4 +548,5 @@ console.log("- Efficient code repetition with loops");
 console.log("- Real-world problem solving techniques");
 console.log("");
 console.log("Next Session: Functions and Advanced JavaScript Concepts");
+
 console.log("Remember: Practice makes perfect in programming!");
