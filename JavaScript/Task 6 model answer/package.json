@@ -1,0 +1,20 @@
+{
+    "name": "js-session6-weather-app",
+    "version": "1.0.0",
+    "description": "Weather Application demonstrating async/await and Fetch API by Saad Hassan Saad",
+    "main": "main.js",
+    "scripts": {
+      "start": "node main.js",
+      "test": "node test.js"
+    },
+    "author": "Saad Hassan Saad - ADA Egypt",
+    "license": "MIT",
+    "keywords": [
+      "async",
+      "await",
+      "promises",
+      "fetch",
+      "weather",
+      "api"
+    ]
+  }
