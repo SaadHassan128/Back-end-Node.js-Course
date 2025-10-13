@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-session2-task-management",
+  "version": "1.0.0",
+  "description": "Task Management System - Node.js Session 2",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "es6",
+    "promises",
+    "async",
+    "await",
+    "ada-egypt"
+  ],
+  "author": "Saad Hassan Saad - Head of Software Department, ADA Egypt",
+  "license": "MIT"
+}

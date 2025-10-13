@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-session2-ada-egypt",
+  "version": "1.0.0",
+  "description": "Node.js ES6+, Promises, and Async/Await - Academy of Digital Arts Egypt",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "es6",
+    "promises",
+    "async",
+    "await",
+    "ada-egypt"
+  ],
+  "author": "Saad Hassan Saad",
+  "license": "MIT"
+}
